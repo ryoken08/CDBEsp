@@ -1,1 +1,2 @@
-# -Ignis-CardScripts-Espa-ol
+# CardScripts-Español
+Cartas para Edopro en Español
